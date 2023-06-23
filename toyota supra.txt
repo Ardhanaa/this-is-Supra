@@ -1,6 +1,9 @@
 informathic class hmpi
 - desain 
   * figma
--PHP
+- PHP
+- admin LTE
+ * postgresql
 - pyton
+ *plask
 - c++

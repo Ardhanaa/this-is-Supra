@@ -1,6 +1,8 @@
 informathic class hmpi
 - desain 
   * figma
--PHP
+- PHP
+- laravel
+- mysql
 - pyton
 - c++

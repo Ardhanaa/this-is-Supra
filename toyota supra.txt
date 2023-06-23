@@ -9,3 +9,5 @@ informathic class hmpi
 - pyton
  *plask
 - c++
+- gathel
+- galer

@@ -4,6 +4,8 @@ informathic class hmpi
 - PHP
 - admin LTE
  * postgresql
+- laravel
+- mysql
 - pyton
  *plask
 - c++

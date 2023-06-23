@@ -1,3 +1,5 @@
 informathic class hmpi
-- desain
-- git dan github
+- desain 
+  * figma
+-PHP
+- pyton
